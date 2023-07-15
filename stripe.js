@@ -26,3 +26,4 @@ const customer = await stripe.customers.create({
 });
 
 customer();
+// call the customer function

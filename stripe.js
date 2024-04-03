@@ -3,7 +3,7 @@ const stripe = require("stripe")("sk_test_4eC39HqLyjWDarjtT1zdp7dc");
 const firstName = "John";
 const lastName = "Doe";
 const email = "john@email.com";
-const password = "12345678pppppPPPPPP";
+const password = "12345678pppppPPPPPPgggg";
 const middlename = "Berg";
 const payslip = "filePath";
 

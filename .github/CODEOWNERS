@@ -1,0 +1,4 @@
+# These owners will be requested for review when the specified paths change
+* @Muskanb 
+src/main/java/io/shiftleft/controller/* @Khush1694
+src/main/java/io/shiftleft/controller/AdminController.java @Muskanb 
